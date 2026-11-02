@@ -25,6 +25,14 @@
     "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/mymelody@main/images/I3.png"
   },  
    {
+    "id": "428",
+    "name": "HELLO KITTY LIVE",
+    "isNew": true,
+    "type": "live",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/mymelody@main/images/V4.mp4",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/wassimmeri/mymelody@main/images/I4.png"
+  },  
+   {
     "id": "400",
     "name": "POCHACCO LIVE",
     "isNew": true,
